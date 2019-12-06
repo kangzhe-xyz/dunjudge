@@ -9,7 +9,10 @@ int main (){
     {
         int a, b;
         cin >> a;
-        if (i != 0)
+        if (i == 0)
+        {
+            b = 0;
+        } else
         {
             if (a > b)
             {

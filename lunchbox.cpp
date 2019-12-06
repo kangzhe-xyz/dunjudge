@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int main () {
+int main(){
     long int N, m;
     long int s = 0;
     long int count = 0;
